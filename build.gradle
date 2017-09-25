@@ -1,0 +1,16 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'dev.lorenz.mandelbrot.Main'
+    }
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+}
+
