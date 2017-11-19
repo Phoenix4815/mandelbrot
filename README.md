@@ -8,3 +8,7 @@ This is a very basic plotter for the Mandelbrot Set, that also allows you to tak
 Download the [Latest Release](https://github.com/Phoenix4815/mandelbrot/releases/latest) here and run `java -jar Mandelbrot.jar`
 or clone the repository and build the project from source using `./gradlew build`.
 
+
+### Screenshots
+![Screenshot of the main frame](https://raw.githubusercontent.com/Phoenix4815/mandelbrot/master/readme-src/Mandelbrot-Program.png?token=AV4LQ6kGHpb_3gjcpfr2nSv4Jpt8FOXYks5aGtovwA%3D%3D "Screenshot of the main frame")
+
